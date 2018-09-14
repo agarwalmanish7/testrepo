@@ -2,4 +2,4 @@
 
 ### Data Science Profile 
 
-![alt text](testrepo/Data_Science_Rankings.png) 
+![Alt text](relative/path/to/testrepo/Data_Science_Rankings.png?raw=true "Title") 
